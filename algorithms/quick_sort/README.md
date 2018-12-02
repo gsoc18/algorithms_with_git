@@ -27,4 +27,4 @@ This program takes an array of size **N** and sort it in increasing order in O(n
 
 ### Implemented in:
 
-- [C](quicksort.c)  
+- [C](quicksort.c) 
